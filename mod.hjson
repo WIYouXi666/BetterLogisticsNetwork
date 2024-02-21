@@ -8,7 +8,7 @@ main: "BetterLogisticsNetwork.BetterLogisticsNetworkMod"
 
 description: "Do you often angry with stupid CargoUnitAI in Mindustry?Try this!More efficient and smarter AI in Better Logistics Network!"
 
-version: 1.0
+version: 1.00
 
 minGameVersion: 145
 
